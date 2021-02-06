@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Nesti Recipes</title>
+
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <div class="titleFridge">J'ai dans mes placards...</div>
+
+    <section>
+
+        <div class="cardcontainer list">
+
+            <ul class="cardlist"></ul>
+
+            <button class="but-nope">X</button>
+            <button class="but-yay">✔</button>
+
+        </div>
+
+        <p id="nameIngredient"></p>
+
+        <p id="buttonRecipe"></p>
+        <button id="reload" onClick="window.location.reload()"></button>
+
+        <ul class="cardlist noRecipe" id="results"></ul>
+
+    </section>
+
+    <script src="js/nesti.js"></script>
+
+</body>
+
+</html>
