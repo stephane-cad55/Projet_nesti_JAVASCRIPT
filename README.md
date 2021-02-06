@@ -1,5 +1,7 @@
 # NESTI_JS
 
+![Capture](https://user-images.githubusercontent.com/72068188/107111922-155ead80-6854-11eb-8a4f-02a081dc97db.PNG)
+
 Projet fil rouge : partie 1
 Composant développé en Javascript
 
